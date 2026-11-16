@@ -2,6 +2,8 @@
 
 Juego de supervivencia en 2D hecho con **Python** y **Pygame** en el que dos jugadores deben esquivar obstáculos que caen desde la parte superior de la pantalla. Incluye 9 retos implementados: límites de pantalla, obstáculos aleatorios, colisiones, pausa, reinicio, cronómetro, dificultad progresiva, cambio de velocidad y récord de puntuación.
 
+https://github.com/javiierr2007/pygame-javier/blob/main/demostraci%C3%B3n_juego.mp4
+
 ## ▶️ Cómo ejecutar el juego
 
 python game.py
